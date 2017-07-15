@@ -22,13 +22,13 @@ import org.springframework.core.io.Resource;
 import org.springframework.util.CollectionUtils;
 
 import net.sf.json.JSONObject;
-import top.content360.conf.Confs;
-import top.content360.exceptions.ValidationFailureException;
-import top.content360.menu.Button;
-import top.content360.menu.ClickButton;
-import top.content360.menu.Menu;
-import top.content360.menu.ViewButton;
-import top.content360.po.AccessToken;
+import car.top.content360.conf.Confs;
+import car.top.content360.exceptions.ValidationFailureException;
+import car.top.content360.menu.Button;
+import car.top.content360.menu.ClickButton;
+import car.top.content360.menu.Menu;
+import car.top.content360.menu.ViewButton;
+import car.top.content360.po.AccessToken;
 public class WeixinUtil {
 	
 	/**

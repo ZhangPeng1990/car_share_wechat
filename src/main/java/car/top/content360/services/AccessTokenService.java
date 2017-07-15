@@ -2,7 +2,7 @@ package car.top.content360.services;
 
 import javax.servlet.http.HttpServletRequest;
 
-import top.content360.po.AccessToken;
+import car.top.content360.po.AccessToken;
 
 public interface AccessTokenService {
 

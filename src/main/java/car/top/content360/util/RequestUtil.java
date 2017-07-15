@@ -1,6 +1,6 @@
 package car.top.content360.util;
 
-import top.content360.enums.MsgType;
+import car.top.content360.enums.MsgType;
 
 public class RequestUtil {
 

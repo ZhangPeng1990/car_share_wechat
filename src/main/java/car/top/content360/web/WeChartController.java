@@ -10,10 +10,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import top.content360.services.AccessTokenService;
-import top.content360.services.MessageService;
-import top.content360.util.Log;
-import top.content360.util.RequestUtil;
+import car.top.content360.services.AccessTokenService;
+import car.top.content360.services.MessageService;
+import car.top.content360.util.Log;
+import car.top.content360.util.RequestUtil;
 
 @Controller
 @RequestMapping("/weixin")

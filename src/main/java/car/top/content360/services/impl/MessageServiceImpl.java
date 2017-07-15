@@ -12,17 +12,17 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import net.sf.json.JSONObject;
-import top.content360.entities.MessagePojo;
-import top.content360.po.AccessToken;
-import top.content360.po.Message;
-import top.content360.po.TextMessage;
-import top.content360.repositorys.MessagePojoRepository;
-import top.content360.services.AccessTokenService;
-import top.content360.services.MessageService;
-import top.content360.util.CheckUtil;
-import top.content360.util.Log;
-import top.content360.util.MessageUtil;
-import top.content360.util.WeixinUtil;
+import car.top.content360.entities.MessagePojo;
+import car.top.content360.po.AccessToken;
+import car.top.content360.po.Message;
+import car.top.content360.po.TextMessage;
+import car.top.content360.repositorys.MessagePojoRepository;
+import car.top.content360.services.AccessTokenService;
+import car.top.content360.services.MessageService;
+import car.top.content360.util.CheckUtil;
+import car.top.content360.util.Log;
+import car.top.content360.util.MessageUtil;
+import car.top.content360.util.WeixinUtil;
 
 @Service(MessageService.SERVICE_NAME)
 public class MessageServiceImpl implements MessageService{

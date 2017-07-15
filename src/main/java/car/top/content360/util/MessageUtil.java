@@ -13,7 +13,7 @@ import org.dom4j.Element;
 
 import com.thoughtworks.xstream.XStream;
 
-import top.content360.po.Message;
+import car.top.content360.po.Message;
 
 public class MessageUtil {
 

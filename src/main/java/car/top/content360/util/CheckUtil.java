@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
-import top.content360.conf.Confs;
+import car.top.content360.conf.Confs;
 
 public class CheckUtil {
 

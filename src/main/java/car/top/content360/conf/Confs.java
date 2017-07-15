@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
-import top.content360.exceptions.SystemException;
+import car.top.content360.exceptions.SystemException;
 
 public class Confs {
 	

@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import top.content360.entities.AccessTokenPojo;
+import car.top.content360.entities.AccessTokenPojo;
 
 public interface AccessTokenPojoRepository extends CrudRepository<AccessTokenPojo, Long> {
 
