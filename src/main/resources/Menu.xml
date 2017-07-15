@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+	<Button>
+		<name><![CDATA[翻日记]]></name>
+		<type>click</type>
+		<key><![CDATA[B1]]></key>
+	</Button>
+	
+	<Button>
+		<name><![CDATA[写日记]]></name>
+		<type>view</type>
+		<key><![CDATA[B2]]></key>
+		<url><![CDATA[http://www.baidu.com]]></url>
+	</Button>
+	
+	<Button>
+		<name><![CDATA[勾搭]]></name>
+		<key><![CDATA[B3]]></key>
+		<sub_button>
+			<name><![CDATA[商务合作]]></name>
+			<type>view</type>
+			<key><![CDATA[B3_1]]></key>
+			<url><![CDATA[http://www.baidu.com]]></url>
+		</sub_button>
+		<sub_button>
+			<name><![CDATA[开发团队]]></name>
+			<type>view</type>
+			<key><![CDATA[B3_2]]></key>
+			<url><![CDATA[http://www.baidu.com]]></url>
+		</sub_button>
+	</Button>
+</Menu>
